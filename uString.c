@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Version 101
+// Version 102
 
 
 int findBytesequenceLength(unsigned char);
