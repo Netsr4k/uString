@@ -2,7 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
-// Version 104
+
+int versionsnummer = 105;
 
 
 int findBytesequenceLength(unsigned char);
