@@ -27,7 +27,7 @@ int find_u(char*, char*, int, int);
 // uses findLetterPosition
 
 
-//  an additional line of comment.
+
 
 
 
