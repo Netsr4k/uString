@@ -2,6 +2,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+// Version 101
+
 
 int findBytesequenceLength(unsigned char);
 
@@ -27,7 +29,7 @@ int find_u(char*, char*, int, int);
 // uses findLetterPosition
 
 
-// Version 100
+
 
 
 
